@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anmol!</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolverma075&label=Profile%20views&color=0e75b6&style=flat" alt="anmolverma075" /> </p>
 
-- 🌱 I’m currently learning **Android Dev , Jetpack Compose**
+- 🌱 I’m currently learning **Java , Android Dev**
 
-- 💬 Ask me about **Android , Data Structures & Algorithms**
+- 💬 Ask me about **Android , Data Structures & Algorithms , Java**
 
 - 📫 How to reach me **anmolverma075@gmail.com**
 
